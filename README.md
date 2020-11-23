@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Ana Lucia for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ana](https://github.com/analuciachin) for the Lighthouse Labs Web Development Bootcamp.
